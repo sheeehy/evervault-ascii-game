@@ -45,7 +45,7 @@ export default function GameMenu({ onStart }: GameMenuProps) {
               animationFillMode: 'both'
             }}
           >
-            Identify the ASCII art from progressively as it gets progressively clearer while racing the clock.
+            Identify the ASCII art as it gets progressively clearer while racing the clock.
           </p>
         </div>
 
